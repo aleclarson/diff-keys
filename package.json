@@ -1,0 +1,8 @@
+{
+  "name": "diff-keys",
+  "version": "1.0.0",
+  "main": "diffKeys.js",
+  "dependencies": {
+    "isObject": "aleclarson/isObject#1.0.0"
+  }
+}
